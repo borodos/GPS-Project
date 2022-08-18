@@ -130,6 +130,7 @@ void convertToUTM(double numberLongitude, double numberLatitude) {
 	// -- Трансформируем координаты в UTM 32N
 	b = proj_trans(P, PJ_FWD, a);
 
+	cout.precision(30);
 	cout << "LongitudeUTM:\t" << b.enu.e << '\t' << "LatitudeUTM:\t" << b.enu.n << endl;
 
 	// -- Очищаем объекты
@@ -137,6 +138,7 @@ void convertToUTM(double numberLongitude, double numberLatitude) {
 	proj_context_destroy(C);
 
 	// -- Записываем в файл преобразованные координаты
+	out.precision(30);
 	out << "LongitudeUTM:\t" << b.enu.e << endl << "LatitudeUTM:\t" << b.enu.n << endl << endl;
 }
 
@@ -164,7 +166,7 @@ void checkFile() {
 	}
 
 	// -- Записываем долготу в переменную
-	valueLongitude.resize(11);
+	valueLongitude.resize(17);
 
 	if (strLongitude != "") {
 		for (size_t i = strLongitude.size(), j = 0; i <= strLongitude.size(); i--, j++)
@@ -179,7 +181,7 @@ void checkFile() {
 	}
 
 	// -- Записываем широту в переменную
-	valueLatitude.resize(11);
+	valueLatitude.resize(17);
 
 	if (strLatitude != "") {
 		for (size_t i = strLatitude.size(), j = 0; i <= strLatitude.size(); i--, j++)
@@ -214,6 +216,7 @@ void checkFile() {
 	if (strLatitude != "") {
 		numberLatitude = std::stod(valueLatitude);
 	}
+
 	in.close();
 	out.open(fileName, ios::app);
 	if (strLongitude != "" && strLatitude != "") {

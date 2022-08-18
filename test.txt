@@ -1,1 +1,217 @@
-GPS 
+GPS is OK
+Iteration 0
+GPS coordinates: 
+Latitude:	47*12'0.2656"N		47.207378387451
+Longitude:	38*56'0.2300"E		38.939723968505
+Count sets: 10
+Speed(km/h): 0.00
+Altitude: 61.30
+HDOP: 1.05
+Time: 10:04:43
+Data: 18.08.2022
+
+LongitudeUTM:	2754915.75599080137908458709717
+LatitudeUTM:	5680378.21029148437082767486572
+
+GPS is OK
+Iteration 1
+GPS coordinates: 
+Latitude:	47*12'0.2656"N		47.207378387451
+Longitude:	38*56'0.2300"E		38.939723968505
+Count sets: 10
+Speed(km/h): 0.00
+Altitude: 61.30
+HDOP: 1.05
+Time: 10:04:44
+Data: 18.08.2022
+
+LongitudeUTM:	2754915.75599080137908458709717
+LatitudeUTM:	5680378.21029148437082767486572
+
+GPS is OK
+Iteration 2
+GPS coordinates: 
+Latitude:	47*12'0.2656"N		47.207378387451
+Longitude:	38*56'0.2300"E		38.939723968505
+Count sets: 10
+Speed(km/h): 0.00
+Altitude: 61.30
+HDOP: 1.05
+Time: 10:04:45
+Data: 18.08.2022
+
+LongitudeUTM:	2754915.75599080137908458709717
+LatitudeUTM:	5680378.21029148437082767486572
+
+GPS is OK
+Iteration 3
+GPS coordinates: 
+Latitude:	47*12'0.2656"N		47.207378387451
+Longitude:	38*56'0.2300"E		38.939723968505
+Count sets: 10
+Speed(km/h): 0.00
+Altitude: 61.30
+HDOP: 1.05
+Time: 10:04:46
+Data: 18.08.2022
+
+LongitudeUTM:	2754915.75599080137908458709717
+LatitudeUTM:	5680378.21029148437082767486572
+
+GPS is OK
+Iteration 4
+GPS coordinates: 
+Latitude:	47*12'0.2656"N		47.207378387451
+Longitude:	38*56'0.2300"E		38.939723968505
+Count sets: 11
+Speed(km/h): 0.00
+Altitude: 61.30
+HDOP: 0.97
+Time: 10:04:47
+Data: 18.08.2022
+
+LongitudeUTM:	2754915.75599080137908458709717
+LatitudeUTM:	5680378.21029148437082767486572
+
+GPS is OK
+Iteration 5
+GPS coordinates: 
+Latitude:	47*12'0.2656"N		47.207378387451
+Longitude:	38*56'0.2300"E		38.939723968505
+Count sets: 10
+Speed(km/h): 0.00
+Altitude: 61.30
+HDOP: 0.97
+Time: 10:04:48
+Data: 18.08.2022
+
+LongitudeUTM:	2754915.75599080137908458709717
+LatitudeUTM:	5680378.21029148437082767486572
+
+GPS is OK
+Iteration 6
+GPS coordinates: 
+Latitude:	47*12'0.2656"N		47.207378387451
+Longitude:	38*56'0.2300"E		38.939723968505
+Count sets: 10
+Speed(km/h): 0.00
+Altitude: 61.30
+HDOP: 0.97
+Time: 10:04:49
+Data: 18.08.2022
+
+LongitudeUTM:	2754915.75599080137908458709717
+LatitudeUTM:	5680378.21029148437082767486572
+
+GPS is OK
+Iteration 7
+GPS coordinates: 
+Latitude:	47*12'0.2656"N		47.207378387451
+Longitude:	38*56'0.2300"E		38.939723968505
+Count sets: 11
+Speed(km/h): 0.00
+Altitude: 61.30
+HDOP: 0.97
+Time: 10:04:50
+Data: 18.08.2022
+
+LongitudeUTM:	2754915.75599080137908458709717
+LatitudeUTM:	5680378.21029148437082767486572
+
+GPS is OK
+Iteration 8
+GPS coordinates: 
+Latitude:	47*12'0.2656"N		47.207378387451
+Longitude:	38*56'0.2300"E		38.939723968505
+Count sets: 11
+Speed(km/h): 0.00
+Altitude: 61.30
+HDOP: 0.97
+Time: 10:04:51
+Data: 18.08.2022
+
+LongitudeUTM:	2754915.75599080137908458709717
+LatitudeUTM:	5680378.21029148437082767486572
+
+GPS is OK
+Iteration 9
+GPS coordinates: 
+Latitude:	47*12'0.2656"N		47.207378387451
+Longitude:	38*56'0.2300"E		38.939723968505
+Count sets: 10
+Speed(km/h): 0.00
+Altitude: 61.30
+HDOP: 1.03
+Time: 10:04:52
+Data: 18.08.2022
+
+LongitudeUTM:	2754915.75599080137908458709717
+LatitudeUTM:	5680378.21029148437082767486572
+
+GPS is OK
+Iteration 10
+GPS coordinates: 
+Latitude:	47*12'0.2656"N		47.207378387451
+Longitude:	38*56'0.2300"E		38.939723968505
+Count sets: 9
+Speed(km/h): 0.00
+Altitude: 61.30
+HDOP: 1.03
+Time: 10:04:53
+Data: 18.08.2022
+
+LongitudeUTM:	2754915.75599080137908458709717
+LatitudeUTM:	5680378.21029148437082767486572
+
+GPS is OK
+Iteration 11
+GPS coordinates: 
+Latitude:	47*12'0.2656"N		47.207378387451
+Longitude:	38*56'0.2300"E		38.939723968505
+Count sets: 9
+Speed(km/h): 0.00
+Altitude: 61.30
+HDOP: 1.03
+Time: 10:04:54
+Data: 18.08.2022
+
+LongitudeUTM:	2754915.75599080137908458709717
+LatitudeUTM:	5680378.21029148437082767486572
+
+GPS is OK
+Iteration 12
+GPS coordinates: 
+Latitude:	47*12'0.2656"N		47.207378387451
+Longitude:	38*56'0.2300"E		38.939723968505
+Count sets: 9
+Speed(km/h): 0.00
+Altitude: 61.30
+HDOP: 1.03
+Time: 10:04:55
+Data: 18.08.2022
+
+LongitudeUTM:	2754915.75599080137908458709717
+LatitudeUTM:	5680378.21029148437082767486572
+
+GPS is OK
+Iteration 13
+GPS coordinates: 
+Latitude:	47*12'0.2656"N		47.207378387451
+Longitude:	38*56'0.2300"E		38.939723968505
+Count sets: 11
+Speed(km/h): 0.00
+Altitude: 61.30
+HDOP: 0.97
+Time: 10:04:56
+Data: 18.08.2022
+
+LongitudeUTM:	2754915.75599080137908458709717
+LatitudeUTM:	5680378.21029148437082767486572
+
+GPS is OK
+Iteration 14
+GPS coordinates: 
+Latitude:	47*12'0.2656"N		47.207378387451
+Longitude:	38*56'0.2300"E		38.939723968505
+Count sets: 11
+Speed(km/h
